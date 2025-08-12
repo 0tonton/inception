@@ -8,4 +8,4 @@ To build, run the command in the inception folder :
 ```
 make build
 ```
-Then you can access the wordpress website using the following address: oloncle.42.fr.
+Then you can access the wordpress website using the domain name.
